@@ -1,4 +1,4 @@
-<img src="images/개보리" width=200 height=300> </img>
+<img src='images/개보리.png' width=200 height=300> </img>
 
 # Hi there 👋
 ## Hi there 👋
